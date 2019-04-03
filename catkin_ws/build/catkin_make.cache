@@ -1,0 +1,2 @@
+ublox/ublox:ublox/ublox_gps:ublox/ublox_msgs:ublox/ublox_serialization
+-DCATKIN_DEVEL_PREFIX=/home/husai/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/husai/catkin_ws/install -G Unix Makefiles

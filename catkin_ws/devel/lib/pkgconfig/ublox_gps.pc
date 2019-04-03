@@ -1,0 +1,8 @@
+prefix=/home/husai/catkin_ws/devel
+
+Name: ublox_gps
+Description: Description of ublox_gps
+Version: 1.1.2
+Cflags: -I/home/husai/catkin_ws/src/ublox/ublox_gps/include
+Libs: -L/home/husai/catkin_ws/devel/lib -lublox_gps
+Requires: roscpp ublox_msgs ublox_serialization
